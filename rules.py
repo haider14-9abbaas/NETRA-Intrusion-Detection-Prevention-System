@@ -1,0 +1,38 @@
+DEFAULT_RULES = [
+    {
+        "id": "R1",
+        "name": "Brute Force Login",
+        "description": "If failed login attempts > threshold within window -> alert brute force",
+        "enabled": True,
+        "severity": "HIGH",
+        "type": "failed_login_threshold",
+        "params": {"threshold": 5, "window_seconds": 120},
+    },
+    {
+        "id": "R2",
+        "name": "Port Scan",
+        "description": "If same IP hits many ports quickly -> alert port scan",
+        "enabled": True,
+        "severity": "HIGH",
+        "type": "port_scan_threshold",
+        "params": {"unique_ports_threshold": 10, "window_seconds": 60},
+    },
+    {
+        "id": "R3",
+        "name": "CPU Spike",
+        "description": "If CPU percent exceeds threshold -> possible malware / ddos impact",
+        "enabled": True,
+        "severity": "MEDIUM",
+        "type": "cpu_spike",
+        "params": {"cpu_threshold": 90},
+    },
+    {
+        "id": "R4",
+        "name": "Traffic Spike",
+        "description": "If bytes_in exceeds threshold -> possible DDoS / flood",
+        "enabled": True,
+        "severity": "MEDIUM",
+        "type": "bytes_in_spike",
+        "params": {"bytes_in_threshold": 500000},
+    },
+]

@@ -1,0 +1,6 @@
+time,src_ip,user,failed_logins,ports_scanned,cpu_percent,traffic_mbps,file_integrity_changed
+10:00:01,192.168.1.10,admin,9,1,30,10,false
+10:00:05,192.168.1.12,student,0,20,25,15,false
+10:00:10,192.168.1.15,guest,0,1,96,30,false
+10:00:15,192.168.1.20,labuser,0,2,40,350,false
+10:00:20,192.168.1.25,admin,0,1,50,20,true
