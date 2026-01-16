@@ -86,18 +86,12 @@ The system combines **rule-based detection**, **anomaly detection**, and **autom
 
 This project is released under the MIT License and is intended for educational and research purposes.
 
-⭐ Acknowledgment
+---
+
+## ⭐ Acknowledgment
 
 If you find this project useful, please consider giving it a ⭐ on GitHub.
 Your support motivates continuous improvement and innovation.
-
----
-
-If you want, next I can also provide:  
-✅ **Professional project poster text**  
-✅ **Final year report cover page text**  
-✅ **PowerPoint presentation slides outline**  
-✅ **GitHub repo folder structure for IDS/IPS**
 
 ---
 
