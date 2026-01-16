@@ -46,8 +46,6 @@ The system combines **rule-based detection**, **anomaly detection**, and **autom
 - 🔐 Windows Firewall / IPTables  
 - 🗄️ Log Processing & Event Simulation  
 
-*(Update according to your actual implementation)*
-
 ---
 
 ## ✨ Key Features
@@ -58,6 +56,48 @@ The system combines **rule-based detection**, **anomaly detection**, and **autom
 - Human-readable alert explanations  
 - Interactive dashboard for administrators  
 - Modular and scalable architecture  
+
+---
+
+## 👨‍💻 Development Team
+
+| GitHub | LinkedIn | Developer Name |
+|:------:|:--------:|----------------|
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/Qmma52) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/mustafa-ali-7b2a34338/) | **Qazi Muhammad Mustafa Ali** |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/haider14-9abbaas) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/syed-haider-abbas-zaidi-132525215/) | **Syed Haider Abbas Zaidi** |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/sufyan123ayaz) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/sufyan-ayaz-34039a339/) | **Muhammad Sufyan Ayaz** |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/Hamza-hani) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/hamza-kamran-271872297/) | **Muhammad Hamza Kamran** |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/basitkk48) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/abdul-basit-kk-554012309/) | **Abdul Basit** |
+| [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="20"/>](https://github.com/CyberChase007) | [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="20"/>](https://www.linkedin.com/in/ahmed-farzan/) | **Ahmed Farzan** |
+
+---
+
+## 🔮 Future Enhancements
+
+- Integration with real network packet capture
+- Advanced deep learning-based threat detection
+- SIEM system integration
+- Role-based access control for dashboard
+- Cloud deployment and scalability
+
+---
+
+## 📜 License
+
+This project is released under the MIT License and is intended for educational and research purposes.
+
+⭐ Acknowledgment
+
+If you find this project useful, please consider giving it a ⭐ on GitHub.
+Your support motivates continuous improvement and innovation.
+
+---
+
+If you want, next I can also provide:  
+✅ **Professional project poster text**  
+✅ **Final year report cover page text**  
+✅ **PowerPoint presentation slides outline**  
+✅ **GitHub repo folder structure for IDS/IPS**
 
 ---
 
@@ -77,45 +117,3 @@ pip install -r requirements.txt
 python app.py
 
 ---
-
-## 👨‍💻 Development Team
-
-| GitHub | LinkedIn | Developer Name |
-|:------:|:--------:|----------------|
-| [<img src="./assets/github.png" width="18"/>](https://github.com/Qmma52) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/mustafa-ali-7b2a34338/) | **Qazi Muhammad Mustafa Ali** |
-| [<img src="./assets/github.png" width="18"/>](https://github.com/haider14-9abbaas) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/syed-haider-abbas-zaidi-132525215/) | **Syed Haider Abbas Zaidi** |
-| [<img src="./assets/github.png" width="18"/>](https://github.com/sufyan123ayaz) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/sufyan-ayaz-34039a339/) | **Muhammad Sufyan Ayaz** |
-| [<img src="./assets/github.png" width="18"/>](https://github.com/Hamza-hani) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/hamza-kamran-271872297/) | **Muhammad Hamza Kamran** |
-| [<img src="./assets/github.png" width="18"/>](https://github.com/basitkk48) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/abdul-basit-kk-554012309/) | **Abdul Basit** |
-| [<img src="./assets/github.png" width="18"/>](https://github.com/CyberChase007) | [<img src="./assets/linkedin.png" width="18"/>](https://www.linkedin.com/in/ahmed-farzan/) | **Ahmed Farzan** |
-
-
-🔮 Future Enhancements
-
-Integration with real network packet capture
-
-Advanced deep learning-based threat detection
-
-SIEM system integration
-
-Role-based access control for dashboard
-
-Cloud deployment and scalability
-
-📜 License
-
-This project is released under the MIT License and is intended for educational and research purposes.
-
-⭐ Acknowledgment
-
-If you find this project useful, please consider giving it a ⭐ on GitHub.
-Your support motivates continuous improvement and innovation.
-
-
----
-
-If you want, next I can also provide:  
-✅ **Professional project poster text**  
-✅ **Final year report cover page text**  
-✅ **PowerPoint presentation slides outline**  
-✅ **GitHub repo folder structure for IDS/IPS**
